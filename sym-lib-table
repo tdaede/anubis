@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name excellent)(type Legacy)(uri ${KIPRJMOD}/excellent.lib)(options "")(descr ""))
+  (lib (name SN74LVC8T245DWR)(type Legacy)(uri ${KIPRJMOD}/SN74LVC8T245DWR.lib)(options "")(descr ""))
 )

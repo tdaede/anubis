@@ -1377,4 +1377,6 @@ Text Label 10350 6550 2    50   ~ 0
 ulx_bg
 Text Label 3950 4450 0    50   ~ 0
 ulx_br
+Text Label 3450 4650 2    50   ~ 0
+ulx_bg
 $EndSCHEMATC
